@@ -1,1 +1,3 @@
-# docker-samples
+# Docker Samples
+
+Sample Dockerfile for build apps
